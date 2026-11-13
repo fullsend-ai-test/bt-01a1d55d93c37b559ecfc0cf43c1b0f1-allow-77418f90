@@ -11,6 +11,3 @@ tracker:
                 - fullsend-ai/agents
 kill_switch: false
 runtime: dummy
-agents:
-    - name: fork-pr-killswitch
-      source: harness/fork-pr-killswitch.yaml
